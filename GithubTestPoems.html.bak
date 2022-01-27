@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" href="GithubTestPoems.css">
+</head>
+<body>
+	<div class="top">
+		<h1 style="text-align: center; color: white; font-family: Arial; margin-left: 265px; font-size: 80px;"> Poems by Anika Lindberg and Ingrid Iverson. <h1>
+	</div>
+	<div class="main-text">
+	
+		<h2> Poems by Ingrid Iverson.</h2> 
+		<h2 style="text-decoration: underline;"> The Poverty Rate </h2>
+			<p> The poverty rate </p>
+			<p> Below eye level</p>
+			<p> Where no one looks </p>
+			<p> What about those</p>
+			<p> Above the poverty rate</p>
+			<p> But still bellow eye level?</p>
+			<p> The poverty rate </p>
+			<p> Considers </p>
+			<p> The desperate few </p>
+			<p> Doesn’t consider </p>
+			<p> The struggling many </p>
+			<p> Consider them </p>
+			<p> It rises </p>
+			<p> And rises </p>
+			<p> And rises </p>
+			<p> Until </p>
+			<p> You must notice </p>
+			<p> Until </p>
+			<p> It rises </p>
+			<p> And rises </p>
+			<p> And rises </p>
+			<p> To eye level </p>
+			<br> <br> <br>
+			
+			
+		<h2 style="text-decoration: underline;"> Poverty is:</h2>
+				<h3> Not having </h3>
+			<p>- Food </p>
+			<p>- Clothes </p>
+			<p>- Shelter </p>
+			<p>- Money </p>
+				<h3> Not being </h3>
+			<p>- The kind of person who gifts something to someone else </p>
+			<p>- The kind of person who obtains a higher education </p>
+			<p>- The kind of person who affords luxuries </p>
+			<p>- The kind of person who has new clothes, soap, and hot water </p>
+			<p>- The kind of person who walks into a store and buys something </p>
+			<p>- The kind of person who doesn’t worry 24/7 about what they will go without  </p>
+				<h3> Not knowing </h3>
+			<p>- What to do </p>
+			<p>- How to get out </p>
+			<p>- Who will help </p>
+			<p>- Whether there is any hope left </p>
+			<br> <br> <br>
+			
+			
+		<h2> Poems by Anika Lindberg</h2>
+		<h2 style="text-decoration: underline;"> Unsatisfied Needs  </h2>
+			<p> Oh, the jab in my heart </p> 
+			<p> When passing the restaurant </p>
+			<p> Such fancy foods </p>
+			<p> A gem to my hungry stomach </p>
+		<br>
+		
+			<p> I look to my mom  </p>
+			<p> She shakes her head, no </p>
+			<p> I barely have any </p>
+			<p> We don’t have enough </p>
+		<br>
+		
+			<p> Skipping to the store </p>
+			<p> Hoping for a meal </p>
+			<p> But only four person meals </p>
+			<p> For our family of 9 </p>
+		<br>
+		
+			<p> I, a twelve-year-old </p>
+			<p> The eldest of many  </p>
+			<p> Naturally give it </p>
+			<p> To my younger siblings </p> 
+		<br>
+		
+			<p> But I forgo my growth</p>
+			<p> For their health </p>
+			<p> Sometimes </p>
+			<p> You can’t sacrifice</p>
+		<br> <br> <br>
+		
+		
+		<h2 style="text-decoration: underline;"> Nobody’s Help  </h2>
+			<p> Nobody </p>
+			<p> I repeat </p>
+			<p> Nobody helped me </p>
+		<br>
+		
+			<p> The suffering I endured left me  </p>
+			<p> Scarred </p>
+			<p> Nobody helped me out </p>
+			<p> And kept me  </p>
+			<p> From passing this fate </p>
+		<br>
+		
+			<p> Not a single person offered me </p> 
+			<p> A small chance </p>
+			<p> To sustain the optimism </p>
+			<p> That since has left me </p>
+		<br>
+		
+			<p> I now love </p>
+			<p> And feel </p>
+			<p> But nobody helped me  </p>
+			<p> Save the life of  </p>
+			<p> Another poor child </p>
+			<p> Doomed to poverty </p>
+	</div>
+	
+	 
+	
+    <header class="header" role="banner">
+        <div class="logo">
+            <a href="https://sup3rnova0000000000000.github.io/LaunguageArts/">Home</a>
+        </div>
+
+        <div class="nav-wrap"> 
+            <nav class="main-nav" role="navigation">
+
+                <ul class="unstyled list-hover-slide">
+                    <li><a href="#">Poems</a></li>
+                    <li><a href="#">Collages</a></li>
+                    <li><a href="#">Art</a></li>
+                    <li><a href="#">Infographics</a></li>
+					<li><a href="#">Sources</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+</body>
+</html>
