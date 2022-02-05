@@ -1,17 +1,15 @@
-
- .main-text {
+.main-text {
   position: center;
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0, 0.6); /* Black w/ slight opacity see-through */
-  color: white;
-  font-weight: bold;
-  font-size: 26px;
+  color: white; 
+  font-weight: bold; 
   border: 5px solid #f1f1f1; 
   position: absolute;
   margin-right: 10px;
-  margin-left: 198px;
+  margin-left: 358px; 
   margin-top: 40px;
-  margin-bottom: 25px;
+  margin-bottom: 25px; 
   padding: 3px; 
   border-radius: 25px;
   text-align: center;
