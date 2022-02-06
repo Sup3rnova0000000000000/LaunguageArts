@@ -22,7 +22,7 @@
 
 body {
   background: url("https://s-media-cache-ak0.pinimg.com/originals/ca/5d/a4/ca5da4df54f6fc88531cbfff469043b0.jpg");
-  background-repeat: no-repeat;
+  background-repeat: fixed;
 }
 
 .unstyled {
