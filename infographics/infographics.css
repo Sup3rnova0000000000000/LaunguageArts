@@ -1,19 +1,44 @@
-.main-text {
-  position: center;
+
+#main_text {
+  /*position: center;*/
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0, 0.6); /* Black w/ slight opacity see-through */
-  color: white; 
-  font-weight: bold; 
-  font-size: 39px;
-  border: 5px solid #f1f1f1; 
-  position: absolute;
-  margin-right: 10px;
-  margin-left: 353px; 
-  margin-top: 30px;
-  margin-bottom: 25px; 
-  padding: 3px; 
+  color: white;
+  border: 5px solid #a1a1a1; 
+  /*position: absolute;*/
+  width: fit-content;
+  /*margin-right: 10px;
+  margin-left: 350px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  padding: 3px;*/
+  margin: 0 auto; 
   border-radius: 25px;
   text-align: center;
+}
+ *, :before, :after {
+  box-sizing: border-box;
+}
+
+@media screen and (min-width:1024px) {
+  #main_text_holder {
+    position: relative;
+    left: 11%;
+    width: 89%;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  #main_text_holder {
+    position: relative;
+    left: 35%;
+    width: 65%;
+  }
+}
+
+#top {
+  width: fit-content;
+  margin: 0 auto; 
 }
 
  *, :before, :after {
@@ -41,15 +66,26 @@ body {
   float: left;
 }
 
-.header {
-  position: fixed;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 12.25em;
-  background: #000000;
-  
-  
+@media screen and (max-width: 1023px) {
+  .header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 35%;
+    background: #000000;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 11%;
+    background: #000000;
+  }
 }
 
 .logo {
@@ -82,7 +118,6 @@ body {
 .main-nav a:hover {
   color: #03A062;
 }
-
 
 .list-hover-slide li {
   position: relative;
